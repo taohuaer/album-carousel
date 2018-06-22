@@ -4,7 +4,8 @@
 
 
 ## 效果展示
-
+![效果](http://p9secbq22.bkt.clouddn.com/18-6-22/30749654.jpg)
+[Live Demo](https://violay33.github.io/album-carousel/example/example.html)
 ## 使用说明
 
 1. 使用`git clone`或`download zip`下载插件源码
@@ -82,8 +83,7 @@ var defaluts = {
 
 ## To Do
 
-- [x] 图片切换速度
-- [ ] 自动/手动播放控制
-- [ ] 相册切换滑动效果
-- [ ] 优化CSS
-
+[x] 图片切换速度
+[ ] 自动/手动播放控制
+[ ] 相册切换滑动效果
+[ ] 优化CSS
